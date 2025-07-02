@@ -62,17 +62,3 @@ The generated newsletters follow this structure:
 - **Firecrawl API Key**: Get your API key from [https://firecrawl.dev](https://www.firecrawl.dev/app/api-keys)
 - **Nebius API Key**: Your Nebius AI API key from [https://studio.nebius.com/?modals=create-api-key](https://studio.nebius.com/?modals=create-api-key)
 
-## Contributing 🤝
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License 📄
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments 🙏
-
-- Built with Streamlit
-- Powered by Nebius AI
-- Web research powered by Firecrawl
-- Agent framework by Agno
