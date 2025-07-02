@@ -4,6 +4,8 @@
 
 A powerful AI-powered newsletter generator that creates professional newsletters on any topic using Nebius AI, Agno, and Firecrawl. This application leverages advanced AI models to research, analyze, and generate well-structured newsletters with the latest information from the web.
 
+Google Search + a personal writer — All in one
+
 ## Features ✨
 
 - 🔍 Real-time web research using Firecrawl
