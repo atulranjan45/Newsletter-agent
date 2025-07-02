@@ -21,27 +21,6 @@ A powerful AI-powered newsletter generator that creates professional newsletters
 - [Nebius AI API key](https://studio.nebius.com/?modals=create-api-key)
 - [Firecrawl API key](https://www.firecrawl.dev/app/api-keys)
 
-## Installation 📥
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Arindam200/awesome-ai-apps.git
-cd simple_ai_agent/newsletter_agent
-```
-
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Create a `.env` file in the project root and add your API keys:
-
-```env
-FIRECRAWL_API_KEY=your_firecrawl_api_key
-NEBIUS_API_KEY=your_nebius_api_key
-```
 
 ## Usage 🚀
 
