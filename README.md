@@ -45,7 +45,7 @@ streamlit run app.py
 
 6. Click "Generate Newsletter" to create your newsletter
 
-7. Download the generated newsletter in markdown format
+7. Download the generated newsletter in markdown format(pdf, doc)
 
 ## Newsletter Structure 📑
 
